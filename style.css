@@ -108,3 +108,13 @@ grid-template-columns: 33% 33% 33% 33% 33%;
 .membro-título{
     background-color: #5135FF;
 }
+
+.rodape{
+    background-color: #5135FF;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
